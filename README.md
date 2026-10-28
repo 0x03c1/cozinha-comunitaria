@@ -1,5 +1,7 @@
 # Cozinha Comunitaria
 
+## Podem usar o [Mermaid](https://mermaid.live/) para criar diagramas. Como exemplo abaixo:
+
 ```mermaid
 requirementDiagram
 
